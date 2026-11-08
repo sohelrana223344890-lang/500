@@ -1,0 +1,45 @@
+[submodule "skills/awesome-design-md"]
+	path = skills/awesome-design-md
+	url = https://github.com/VoltAgent/awesome-design-md.git
+[submodule "skills/impeccable"]
+	path = skills/impeccable
+	url = https://github.com/pbakaus/impeccable.git
+[submodule "skills/taste-skill"]
+	path = skills/taste-skill
+	url = https://github.com/Leonxlnx/taste-skill.git
+[submodule "skills/agent-skills"]
+	path = skills/agent-skills
+	url = https://github.com/vercel-labs/agent-skills.git
+[submodule "skills/playwright-mcp"]
+	path = skills/playwright-mcp
+	url = https://github.com/microsoft/playwright-mcp.git
+[submodule "skills/rea"]
+	path = skills/rea
+	url = https://github.com/morluto/rea.git
+[submodule "templates/nest"]
+	path = templates/nest
+	url = https://github.com/nestjs/nest.git
+[submodule "templates/express-ts"]
+	path = templates/express-ts
+	url = https://github.com/w3tecch/express-typescript-boilerplate.git
+[submodule "templates/fastapi"]
+	path = templates/fastapi
+	url = https://github.com/fastapi/full-stack-fastapi-template.git
+[submodule "templates/django"]
+	path = templates/django
+	url = https://github.com/cookiecutter/cookiecutter-django.git
+[submodule "templates/go-clean-arch"]
+	path = templates/go-clean-arch
+	url = https://github.com/bxcodec/go-clean-arch.git
+[submodule "quant/FinRL"]
+	path = quant/FinRL
+	url = https://github.com/AI4Finance-Foundation/FinRL.git
+[submodule "quant/qlib"]
+	path = quant/qlib
+	url = https://github.com/microsoft/qlib.git
+[submodule "quant/vectorbt"]
+	path = quant/vectorbt
+	url = https://github.com/polakowo/vectorbt.git
+[submodule "quant/backtrader"]
+	path = quant/backtrader
+	url = https://github.com/mementum/backtrader.git
